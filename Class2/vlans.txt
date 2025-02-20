@@ -1,0 +1,10 @@
+vlan 151
+  name PROD
+vlan 152
+  name TEST
+vlan 153
+  name LAB
+vlan 154
+  name MGMT
+vlan 155
+  name EXTENSION
